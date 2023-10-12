@@ -17,5 +17,5 @@
     "skipLibCheck": true,
     "strictPropertyInitialization": false
   },
-  "include": ["src"]
+  "include": ["src/js"]
 }
